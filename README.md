@@ -34,7 +34,7 @@ device_id location_general         type  ...                                    
 ```python
 import pickle
 
-with open('grid-to-sensor.pickle','wb') as f:
+with open('grid-to-sensor.pickle','rb') as f:
   d = pickle.load(f)
 
 d.keys()
