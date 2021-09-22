@@ -79,7 +79,7 @@ time     0     1  ...         location_specific                 receiver value
 import seaborn as sns # imports the seaborn module (https://seaborn.pydata.org/)
 import matplotlib.pyplot as plt # imports the python data visualization library object (https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html)
 
-sns.lineplot(x= 'datetime', y='value', data=ldf)
+sns.lineplot(x= 'time', y='value', data=ldf)
 plt.title('Lux Value Over Time')
 plt.show() # Shows the plot
 ```
