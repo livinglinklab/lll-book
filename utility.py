@@ -158,8 +158,7 @@ def get_cache_health_score(pdf, s, e, freq_str, fieldname):
 
 
 def main():
-    with open('book.pickle', 'rb') as f:
-        ddf = pickle.load(f)
+    ddf = pd.read_csv('book_with_grids.csv')
     s = datetime(2021, 8, 1)
     e = datetime(2021, 9, 1)
 
