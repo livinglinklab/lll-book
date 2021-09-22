@@ -9,6 +9,9 @@ This module helps people extract grid related information from the living linkla
 ```python
 import pandas as pd
 df = pd.read_csv('book_with_grids.csv')
+```
+
+```python
 '''
 device_id location_general         type  ...                                             fields   name notes
 0    018984f9          linklab          co2  ...  Concentration_ppm,H-Sensor,Humidity_%,T-Sensor...   CO-1   NaN
@@ -31,21 +34,17 @@ device_id location_general         type  ...                                    
 
 ```python
 df[df['grid'] ==197]
-'''
+```
+
 device_id location_general         type max_heartbeat_str     description  ... notes      x     y    z  grid
 117  050623c9          linklab  light_level             30min   54.18,1.6,3.1  ...   NaN  54.18  1.60  3.1   197
 118  018a242d          linklab   temp_humid             15min  52.35,2.83,1.1  ...   NaN  52.35  2.83  1.1   197
 119   1834365          linklab      contact             25min   52.35,3.0,1.1  ...   NaN  52.35  3.00  1.1   197
-'''
-```
+
 
 ### How do I get data for that sensor for a specific time range?
 
 ```python
-# def get_grid_df(grid_number, start_datetime, end_datetime):
-#   # Returns a data frame of all the data points for sensors in that grid location
-#   return grid_df
-
 import utility as util
 from datetime import datetime
 s= datetime(2021,1,1) # start datetime
@@ -54,7 +53,8 @@ e= datetime(2021,9,20) # end datetime
 fields = list(set(df[df['grid']==2]['fields'].values[0].split(',')))
 # ['Illumination_lx', 'rssi', 'Supply voltage_V', 'Range select']
 ldf = util.get_lfdf('Illumination_lx', s, e, list(df[df['grid']==2]['device_id']))
-
+```
+```python 
 '''
 time     0     1  ...         location_specific                 receiver value
 0   2021-06-09 09:41:06-04:00  None  None  ...  North side of 201 Olsson  enocean-generic-gateway  64.0
