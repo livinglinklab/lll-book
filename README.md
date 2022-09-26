@@ -35,12 +35,12 @@ device_id location_general         type  ...                                    
 ```python
 df[df['grid'] ==197]
 ```
-
+```python
 device_id location_general         type max_heartbeat_str     description  ... notes      x     y    z  grid
 117  050623c9          linklab  light_level             30min   54.18,1.6,3.1  ...   NaN  54.18  1.60  3.1   197
 118  018a242d          linklab   temp_humid             15min  52.35,2.83,1.1  ...   NaN  52.35  2.83  1.1   197
 119   1834365          linklab      contact             25min   52.35,3.0,1.1  ...   NaN  52.35  3.00  1.1   197
-
+```
 
 ### How do I get data for that sensor for a specific time range?
 
