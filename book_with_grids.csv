@@ -119,7 +119,7 @@ awair-8532,linklab,awair_element,10s,"41.5,3.08,0.38","Humidity_%,Temperature_°
 050623c9,linklab,light_level,30min,"54.18,1.6,3.1","Illumination_lx,Range select,Supply voltage_V,rssi",,54.18,1.6,3.1,197
 018a242d,linklab,temp_humid,15min,"52.35,2.83,1.1","Temperature_°C,Humidity_%,T-Sensor,rssi",,52.35,2.83,1.1,197
 1834365,linklab,contact,25min,"52.35,3.0,1.1","Contact,rssi",,52.35,3,1.1,197
-70886b123bc8,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",243 Olsson,,,,
+70886b123bc8,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",243 Olsson,,,,159
 70886b123059,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",281 Olsson,,,,4
 70886b123507,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",217 Olsson,,,,14
 70886b1235d7,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",255 Olsson,,,,6
