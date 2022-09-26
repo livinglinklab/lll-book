@@ -119,37 +119,23 @@ awair-8532,linklab,awair_element,10s,"41.5,3.08,0.38","Humidity_%,Temperature_°
 050623c9,linklab,light_level,30min,"54.18,1.6,3.1","Illumination_lx,Range select,Supply voltage_V,rssi",,54.18,1.6,3.1,197
 018a242d,linklab,temp_humid,15min,"52.35,2.83,1.1","Temperature_°C,Humidity_%,T-Sensor,rssi",,52.35,2.83,1.1,197
 1834365,linklab,contact,25min,"52.35,3.0,1.1","Contact,rssi",,52.35,3,1.1,197
-70886b123bc8,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",243 Olsson,,,,159
-70886b123059,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",281 Olsson,,,,4
-70886b123507,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",217 Olsson,,,,14
-70886b1235d7,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",255 Olsson,,,,6
-70886b122593,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",204 Olsson,,,,1
-70886b123368,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",251 Olsson,,,,5
-70886b1232f1,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",245 Olsson,,,,13
-70886b123a62,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",225 Olsson,,,,
-70886b123b81,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",211 Olsson,,,,
-70886b1234a0,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",211 Olsson,,,,10
-70886b1230f2,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",C200 Olsson,,,,
-70886b123c0b,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",C210 Olsson,,,,
-70886b123992,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",203 Olsson,,,,
-70886b123935,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",240 Olsson,,,,
-70886b12349c,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",221 Olsson,,,,9
-70886b1235d4,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",269 Olsson,,,,8
-70886b1239a5,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",120 Olsson,,,,
-70886b1238b9,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",005 Olsson,,,,
-70886b12335b,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",C211 Olsson,,,,11
-70886b123735,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",221 Olsson,,,,15
-70886b125400,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",Rice 130,,,,
-70886b12621c,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",Rice 130,,,,
-70886b12600d,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",Rice 130,,,,directly behind the podium
-70886b1259c5,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",Rice 130,,,,next to the AV room window
-70886b125efe,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",Rice outdoor patio,,,,
-70886b12628e,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",Rice 108,,,,
-70886b126329,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",Rice 107,,,,
-70886b126254,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",Rice 109,,,,
-70886b126a7b,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",Link Lab NE18,,,,
-70886b126976,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",Link Lab NE 46,,,,
-70886b1232f6,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",Link Lab NE 28,,,,
-70886b12532b,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",Link Lab - NE 8,,,,
-70886b1277ca,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",253 Olsson,,,,
-70886b123039,linklab,awair_omni,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",241 Olsson,,,,12
+70886b123bc8,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",243 Olsson,,,,159
+70886b123059,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",281 Olsson,,,,4
+70886b123507,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",217 Olsson,,,,14
+70886b1235d7,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",255 Olsson,,,,6
+70886b122593,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",204 Olsson,,,,1
+70886b123368,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",251 Olsson,,,,5
+70886b1232f1,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",245 Olsson,,,,13
+70886b123a62,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",225 Olsson,,,,78
+70886b123b81,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",211 Olsson,,,,51
+70886b1234a0,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",211 Olsson,,,,71
+70886b1230f2,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",C200 Olsson,,,,100
+70886b123c0b,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",C210 Olsson,,,,109
+70886b123992,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",203 Olsson,,,,8
+70886b123935,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",240 Olsson,,,,176
+70886b12349c,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",221 Olsson,,,,14
+70886b1235d4,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",269 Olsson,,,,166
+70886b12335b,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",C211 Olsson,,,,71
+70886b123735,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",221 Olsson,,,,15
+70886b1277ca,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",253 Olsson,,,,195
+70886b123039,linklab,awair_element,10s,,"score,temp,humid,co2,voc,pm25,lux,spl_a,mac,counter",241 Olsson,,,,139
