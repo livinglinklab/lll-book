@@ -19,8 +19,8 @@ REFERENCES:
 class Influx():
     def __init__(self):
         logging.basicConfig(level=logging.DEBUG)
-        self.user = config('INFLUX_USER')
-        self.password = config('INFLUX_PW')
+        self.user = config('INFLUXDB_USERNAME')
+        self.password = config('INFLUXDB_PASSWORD')
         self.host = config('INFLUX_HOST')
         self.dbname = 'gateway-generic'  # 'linklab-users'
         self.port = 443

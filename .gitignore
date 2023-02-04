@@ -138,3 +138,6 @@ dmypy.json
 cython_debug/
 
 *.csv
+
+# for Mac OS
+.DS_Store
