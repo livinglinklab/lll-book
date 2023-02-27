@@ -1,0 +1,50 @@
+device_id,type,location_general,location_specific,fields,description,pixel_coordinate,notes
+70886b125d88,Awair Element,UVA,203 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",North wall near TV,"403,39",
+70886b122593,Awair Omni,UVA,204 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",,"170,318",
+70886b123c0b,Awair Omni,UVA,C210 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",Elevator Area,"575,282",
+70886b12335b,Awair Omni,UVA,C211 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",Work cubby,"412,282",
+70886b126a0e,Awair Omni,UVA,211 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",Whiteboard,"12,134",
+70886b1234a0,Awair Omni,UVA,211 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",Wall 1,"581,188",
+70886b123735,Awair Omni,UVA,211 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",Table 1,"618,175",
+70886b1238b5,Awair Omni,UVA,211 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",TV 2,"709,204",
+70886b12395b,Awair Omni,UVA,211 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",TV 3,"709,204",
+70886b123962,Awair Omni,UVA,211 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",Table 3,"647,175",
+70886b123992,Awair Omni,UVA,211 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",Entrance 1,"623,220",
+70886b123b81,Awair Omni,UVA,211 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",Back Wall,"692,124",
+70886b123b83,Awair Omni,UVA,211 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",Table 2,"673,175",
+70886b1275bc,Awair Omni,UVA,211 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",Wall 3,"692,124",
+70886b12762f,Awair Omni,UVA,211 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",Wall 5,"148,385",
+70886b127639,Awair Omni,UVA,211 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",TV 4,"709,146",
+70886b127730,Awair Omni,UVA,211 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",TV 1,"709,146",
+70886b12778c,Awair Omni,UVA,211 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",Wall 4,"581,146",
+70886b1268c6,Awair Omni,UVA,211 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",Entrance 2,"581,214",
+70886b126a04,Awair Omni,UVA,211 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",Wall 6,"581,188",
+70886b125d64,Awair Omni,UVA,C211 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",Last cubby across from 225,"984,274",
+70886b123507,Awair Omni,UVA,217 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",,"863,157",
+70886b123a60,Awair Omni,UVA,218 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",On wall in printer room,"897,260",
+70886b12532b,Awair Omni,UVA,221 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",NE 8,"701,89",
+70886b12349c,Awair Omni,UVA,221 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",NE 11,"788,44",
+70886b12537c,Awair Omni,UVA,221 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",NE 42,"1014,11",
+70886b126a7b,Awair Omni,UVA,221 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",NE 18,"836,119",
+70886b123a62,Awair Omni,UVA,225 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",Table Front,"1,038,154",
+70886b123935,Awair Omni,UVA,240 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",SE Seating,"880,322",
+70886b123039,Awair Omni,UVA,241 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",North wall,"1,076,139",
+70886b123bc8,Awair Omni,UVA,243 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",,"1,105,388",
+70886b1232f1,Awair Omni,UVA,245 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",,"1,069,477",
+70886b123368,Awair Omni,UVA,251 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",South wall,"888,544",
+70886b1235d7,Awair Omni,UVA,255 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",,"807,529",
+70886b126223,Awair Omni,UVA,269 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",,"402,492",
+70886b1277ca,Awair Omni,UVA,275 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",South wall by window,"173,518",
+70886b123059,Awair Omni,UVA,275 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",On the table,"205,518",
+70886b1230f2,Awair Omni,UVA,275 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",,"222,543",
+70886b1235d4,Awair Omni,UVA,275 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",,"222,517",
+70886b123c41,Awair Omni,UVA,277 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",South wall by window,"128,557",
+70886b125f1e,Awair Omni,UVA,281 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",West wall by window,"10,482",
+awair-2992,Awair Element,UVA,Outside 256 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",On west wall,"738,421","mac_address: 70886B10577F,"
+awair-3242,Awair Element,UVA,203 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",North side of the arena,"584,173","mac_address: 70886B105879, location: 211 olsson"
+awair-3284,Awair Element,UVA,Outside 269 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",on east wall,"371,322",mac_address: 70886B1058A3
+awair-3358,Awair Element,UVA,221 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",NE corner,"852,44",mac_address: 70886B1058ED
+awair-3390,Awair Element,UVA,240 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",On north wall,"991,474",mac_address: 70886B10590D
+awair-3446,Awair Element,UVA,208 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",In kitchenette left of sink,"383,304",mac_address: 70886b105945
+awair-3509,Awair Element,UVA,221 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",NE 7,"657,39",mac_address: 70886B105984
+awair-4019,Awair Element,UVA,201 Olsson,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb",By sink,"215,33",mac_address: 70886B105B82
